@@ -177,8 +177,8 @@ function submitForm(oFormElement)
 
 <div class="fm">
 
-<b>Beta Version-2016</b><br>
-<b>Developed By Ashadullah Shawon</b>
+<b>Beta Version-2022</b><br>
+<b>Developed By Ashadullah Shawon(Updated by KimWang09)</b>
 
 </div>
 </div>
