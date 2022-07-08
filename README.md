@@ -28,7 +28,7 @@ For Java Install Java
 ```
 Go To Java Installed Folder bin Location And Copy The Path. Mine Is
 
-C:\Program Files\Java\jdk1.8.0_112\bin
+C:\Program Files\Java\jdk1.8.0_(Your Version)\bin
 
 ```
 
@@ -37,3 +37,5 @@ C:\Program Files\Java\jdk1.8.0_112\bin
 At Last Replace Path in putenv() function by your path
 ```
 
+Now(BUG)
+    1. C++로 할 경우 컴파일이 안된다.
